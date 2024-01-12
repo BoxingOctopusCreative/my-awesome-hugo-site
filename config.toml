@@ -1,4 +1,4 @@
 baseURL = "https://nobodyaskedforthis.website/"
 languageCode = "en-us"
 title = "Nobody Asked For This Website"
-theme = "hugo-theme-pulp"
+theme = "pulp"
